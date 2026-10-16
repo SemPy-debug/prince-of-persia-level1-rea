@@ -2,6 +2,17 @@
 
 A native Windows reconstruction of the first level of the 1989 Apple II game, with newly written C gameplay, rendering and audio code. Original graphics, animation tables, music and first-level data are retained. No existing Prince of Persia engine or port was adapted. The game ends after level one.
 
+## Gameplay
+
+<p>
+  <img src="docs/media/platforming.png" alt="The Prince exploring the dungeon platforms and gates" width="49%">
+  <img src="docs/media/sword-fight.png" alt="The Prince sword fighting a guard" width="49%">
+</p>
+
+**[Watch 21 seconds of gameplay with sound](https://github.com/SemPy-debug/prince-of-persia-level1-rea/releases/download/v1.0.0/PrinceOfPersia-Level1-gameplay.mp4)** — approach, sword combat and in-game music.
+
+These are actual captures from the native game using an automated keyboard route. Pixel art is enlarged with nearest-neighbor scaling. The playable executable and gameplay source are unchanged.
+
 ## Download and play
 
 **[Download v1.0.0 for Windows x64](https://github.com/SemPy-debug/prince-of-persia-level1-rea/releases/download/v1.0.0/PrinceOfPersia-Level1-v1.0.0-Windows-x64.zip)**
