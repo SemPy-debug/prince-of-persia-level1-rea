@@ -1,0 +1,12 @@
+# Preserve the exact verified gameplay source and generated asset bytes.
+src/** -text
+generated/** -text
+tests/*.h -text
+tests/*.c -text
+*.sh text eol=lf
+*.py text eol=lf
+*.md text eol=lf
+*.txt text eol=lf
+*.sha256 text eol=lf
+.gitignore text eol=lf
+.gitattributes text eol=lf

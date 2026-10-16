@@ -1,0 +1,62 @@
+PRINCE OF PERSIA - LEVEL 1: CONTROLS FOR THIS BUILD
+
+MOVEMENT
+  Run / turn          Hold Left or Right. Release to stop.
+  Careful step        Stop running first. Hold Shift and tap Left or Right.
+                      Release the arrow between steps; Shift is not a brake.
+  Jump straight up    Up.
+  Standing jump       From a stop, press Up + Left or Up + Right together.
+  Running jump        Build up a run with Left/Right, keep that direction
+                      held, then press Up before the gap.
+  Crouch              Hold Down. Release to stand.
+  Crouched step       Keep Down held, then tap the direction he is facing.
+                      Turn around before crouching if you need to go back.
+
+LEDGES
+  Climb up            Face a reachable ledge and press Up.
+  Catch a ledge       Hold Shift while jumping/falling within reach.
+  Keep hanging        Keep Shift held.
+  Pull yourself up    While hanging, keep Shift held and press Up.
+  Let go              Release Up, then release Shift while hanging.
+  Climb down          Carefully approach an edge, turn to face away from
+                      the drop, then press Down. Hold Shift to hang.
+
+ITEMS AND EXIT
+  Drink / collect     Face the potion or sword and tap Shift nearby.
+                      If he only kneels, hold Down and tap Shift again
+                      once he is crouched. Release Shift between presses.
+  Open gates          Step on the appropriate floor plate. Some close gates;
+                      others open them. There is no separate use-gate key.
+  Finish the level    Reach the opened exit and press Up at the doorway.
+
+SWORD FIGHTING - AFTER COLLECTING THE SWORD
+  Draw                Usually automatic near a guard; Shift draws it again
+                      when an opponent is close enough.
+  Strike              Tap Shift. Release, then press again for another blow.
+  Block / parry       Tap Up as the guard's attack comes toward you.
+  Counterattack       After a successful block, tap Shift.
+  Advance             Tap the direction you are facing, toward the guard.
+  Retreat             Tap the opposite direction.
+  Put sword away      Down. Movement then returns to running/jumping.
+
+WINDOW AND GAME
+  Enter or Space      Pause / resume.
+  R                   Start level one again as a new game.
+  M                   Mute / unmute.
+  Escape              Quit.
+  Resize window       Drag the window border.
+
+TIPS
+  You begin without a sword. Find and collect it before fighting the guard.
+  Animation timing matters: let a turn or landing settle before the next
+  move. A standing jump is shorter than a running jump. Hold Shift during
+  a doubtful jump so the Prince can catch the far ledge if it is reachable.
+  Releasing Shift while hanging makes him drop.
+  Original music pauses the action and finishes automatically.
+  Changing window focus pauses the game; click back and press Enter.
+  This build ends after level one.
+
+These bindings were checked against src/windows_main.c, src/controller.c
+and src/motion.c. Original movement/combat reference: User's Guide,
+printed pages 4-7 (the modern window shortcuts above belong to this build):
+https://mirrors.apple2.org.za/ftp.apple.asimov.net/documentation/games/misc/prince_of_persia.pdf

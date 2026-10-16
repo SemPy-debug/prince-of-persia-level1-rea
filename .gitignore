@@ -1,0 +1,12 @@
+/build/
+/dist/
+/tooling/
+/.venv/
+__pycache__/
+*.py[cod]
+dev-state.json
+*.core
+core
+.DS_Store
+Thumbs.db
+

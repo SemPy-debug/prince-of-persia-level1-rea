@@ -1,0 +1,27 @@
+PRINCE OF PERSIA - LEVEL 1: QUICK START
+
+Windows x64. Extract the game ZIP first, then open PrinceOfPersia-Level1.exe.
+Press Enter to begin. No installation or administrator privileges are required.
+Keep the manual and license files alongside the game.
+
+MOVE:     Left/Right run; Up jumps/climbs; Down crouches.
+CAREFUL:  Stop, then hold Shift and tap Left/Right. Release between steps.
+LEDGES:   Hold Shift to catch/stay hanging. Keep Shift held and press Up to climb.
+ITEMS:    Face the sword/potion and tap Shift nearby. Try crouching if needed.
+FIGHT:    Collect the sword first. Tap Shift to strike; tap Up to parry.
+          Advance/retreat with the arrows. Down puts the sword away.
+GATES:    Step on the linked floor plate. Some plates close gates instead.
+EXIT:     Reach the opened final doorway and press Up. Level one ends here.
+
+Enter/Space = pause/resume    R = new game    M = mute    Escape = quit
+The game pauses on focus loss. Click back and press Enter to resume.
+Original music pauses the action and finishes automatically.
+
+Full moves: CONTROLS.txt
+Player manual: docs/MANUAL.md
+Verification limits: docs/VERIFICATION.md
+Credits and third-party notices: THIRD-PARTY-NOTICES.txt
+
+The native game does not require Python, Conda, WSL, Codex, REA or an emulator.
+This is an unofficial reconstruction of the first level of the 1989 Apple II game.
+
